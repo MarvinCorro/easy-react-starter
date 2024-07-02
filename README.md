@@ -47,8 +47,10 @@ The project structure is organized as follows:
 In the project directory, you can run the following scripts:
 
 - `npm run build-dev`: Starts the development server.
-- `npm run build-prod`: Builds the app for production and runs it on a node server.
-- `clean`: removes the current build
+- `npm run build-prod`: Builds the app for production. 
+- `build-prod-n-serve`: Builds the app for production and runs it on a node server.
+- `build-library`: A config for exporting react component libraries.
+- `clean`: Removes the current build.
 
 ## Contributing
 
