@@ -1,10 +1,10 @@
 {
-  "name": "@epiphanyzz/easy-badge",
-  "description": "A simple reusable badge and pill using React.js",
+  "name": "@epiphanyzz/easy-react-starter",
+  "description": "A simple react starter project with webpack 5, babel 7",
   "version": "1.0.0",
   "main": "./dist/main.js",
   "module": "./dist/main.js",
-  "repository": "https://github.com/MarvinCorro/easy-badge",
+  "repository": "https://github.com/MarvinCorro/easy-react-starter",
   "scripts": {
     "clean": "rm ./dist/bundle.js",
     "build-dev": "webpack serve --config ./webpack/webpack.dev.config.js --progress",
